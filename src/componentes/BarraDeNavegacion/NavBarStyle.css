@@ -1,0 +1,18 @@
+.Barra{
+    background-color: brown;
+    text-align: center;
+    position: relative;
+    display: flex;
+    height: 90px;
+    margin: 0;
+    align-items: center;
+    padding: 10px;
+}
+
+.Lista :hover{
+    display: flex;
+    color: white;
+    text-align: center;
+    
+
+} 
